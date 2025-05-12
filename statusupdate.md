@@ -7,7 +7,7 @@ _A brief summary of the goal this update refers to._
 ## Main Objective
 _The high-level objective this work supports._
 
-### TL;DR of Main Objective
+### TL;DR of Main Objective Progress
 _A one-line summary of progress on the main objective._
 
 ## Subsections (Key Focus Areas)
